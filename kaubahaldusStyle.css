@@ -1,0 +1,33 @@
+div
+{
+    background-color: wheat;
+    font-family: "Oswald", Oswald, monospace;
+    border: 3pt solid #A52A2A;
+    padding: 35px;
+    width: 400px;
+    border-radius: 12px;
+    position: absolute;
+}
+div#divLoetelu
+{
+    width: 700px;
+
+}
+div#divGrupiLisamine, div#divLisamine
+{
+    float: left;
+    top: 350px;
+}
+div#divLisamine
+{
+    left: 500px;
+}
+h2
+{
+    font-weight: bold;
+    font-style: italic;
+}
+td
+{
+    border: 3pt solid #A52A2A;
+}
